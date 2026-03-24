@@ -61,15 +61,15 @@ VS Code configurado con las extensiones necesarias y Git reconocido globalmente.
 
 ### 2. Estructura y Renderizado
 La página muestra el encabezado, las secciones de "Evolución de la Web" y "Protocolo HTTP", con sus respectivos estilos.
-> <img src="capturas/checkpoint 4.png" width="600">
+<img src="capturas/checkpoint 3.png" width="600">
 
 ### 3. Inspección con DevTools
-[cite_start]Uso del panel **Elements** para modificar estilos en tiempo real y **Console** para verificar los logs de `main.js`[cite: 211, 216, 243].
-> **[Inserta aquí tu captura de las herramientas de desarrollador de Chrome]**
+Uso del panel **Elements** para modificar estilos en tiempo real y **Console** para verificar los logs de `main.js`
+<img src="capturas/checkpoint 4.png" width="600">
 
 ### 4. Historial de Commits
-[cite_start]El repositorio cuenta con al menos 4 commits descriptivos que documentan el progreso incremental[cite: 239, 240].
-> **[Inserta aquí tu captura del historial de commits en GitHub]**
+El repositorio cuenta con al menos 4 commits descriptivos que documentan el progreso incremental
+<img src="capturas/checkpoint 5.png" width="600">
 
 ---
 
